@@ -4,5 +4,6 @@
 void main()
 {
 	printf("hello world\n");
+	printf("git add \n");
 	return ;
 }
